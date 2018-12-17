@@ -1,0 +1,154 @@
+[21-Oct-2018 22:25:21 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'Data_prj'@'148.66.138.153' (using password: YES) in /home/py8e3wmbzwk9/public_html/mysql/index.php on line 3
+[21-Oct-2018 22:31:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'shashanka'@'148.66.138.153' (using password: YES) in /home/py8e3wmbzwk9/public_html/mysql/index.php on line 3
+[21-Oct-2018 22:36:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhosdt' (2) in /home/py8e3wmbzwk9/public_html/mysql/index.php on line 3
+[21-Oct-2018 22:44:47 UTC] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/py8e3wmbzwk9/public_html/mysql/index.php on line 15
+[22-Oct-2018 01:18:24 UTC] PHP Notice:  Undefined index: username in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 5
+[22-Oct-2018 01:20:03 UTC] PHP Notice:  Undefined index: username in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 5
+[22-Oct-2018 01:20:55 UTC] PHP Notice:  Undefined index: username in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 5
+[22-Oct-2018 01:26:25 UTC] PHP Notice:  Undefined index: cust in /home/py8e3wmbzwk9/public_html/mysql/cookie.php on line 5
+[22-Oct-2018 01:29:03 UTC] PHP Notice:  Undefined index: a in /home/py8e3wmbzwk9/public_html/mysql/cookie.php on line 5
+[22-Oct-2018 17:52:52 UTC] PHP Notice:  Undefined index: username in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 5
+[22-Oct-2018 17:52:56 UTC] PHP Notice:  Undefined index: username in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 5
+[22-Oct-2018 17:53:04 UTC] PHP Notice:  Undefined index: username in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 5
+[22-Oct-2018 21:25:32 UTC] PHP Notice:  Undefined index: username in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 5
+[23-Oct-2018 08:48:26 UTC] PHP Notice:  Undefined index: username in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 5
+[23-Oct-2018 16:44:37 UTC] PHP Notice:  Undefined index: username in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 5
+[23-Oct-2018 17:49:55 UTC] PHP Notice:  Undefined index: username in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 5
+[24-Oct-2018 08:32:35 UTC] PHP Notice:  Undefined index: username in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 5
+[06-Nov-2018 18:34:17 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'shashanka'@'localhost' to database 'monday' in /home/py8e3wmbzwk9/public_html/mysql/index.php on line 3
+[06-Nov-2018 18:34:18 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'shashanka'@'localhost' to database 'monday' in /home/py8e3wmbzwk9/public_html/mysql/index.php on line 3
+[06-Nov-2018 18:38:26 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'shashanka'@'localhost' to database 'monday' in /home/py8e3wmbzwk9/public_html/mysql/index.php on line 3
+[06-Nov-2018 21:29:41 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/py8e3wmbzwk9/public_html/mysql/session.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 48
+[06-Nov-2018 21:31:03 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/py8e3wmbzwk9/public_html/mysql/session.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 45
+[06-Nov-2018 21:37:53 UTC] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 38
+[06-Nov-2018 21:38:27 UTC] PHP Parse error:  syntax error, unexpected '" and Room<"' (T_CONSTANT_ENCAPSED_STRING) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 39
+[06-Nov-2018 21:39:07 UTC] PHP Parse error:  syntax error, unexpected '" ' (T_CONSTANT_ENCAPSED_STRING) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 41
+[06-Nov-2018 21:39:15 UTC] PHP Parse error:  syntax error, unexpected '" ' (T_CONSTANT_ENCAPSED_STRING) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 41
+[06-Nov-2018 21:40:02 UTC] PHP Parse error:  syntax error, unexpected '" ' (T_CONSTANT_ENCAPSED_STRING) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 41
+[06-Nov-2018 21:41:15 UTC] PHP Parse error:  syntax error, unexpected '" ' (T_CONSTANT_ENCAPSED_STRING) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 41
+[06-Nov-2018 21:44:47 UTC] PHP Parse error:  syntax error, unexpected '" and Room<"' (T_CONSTANT_ENCAPSED_STRING) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 39
+[06-Nov-2018 21:47:08 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 44
+[06-Nov-2018 21:48:57 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 44
+[06-Nov-2018 21:56:47 UTC] PHP Parse error:  syntax error, unexpected '" and Room<"' (T_CONSTANT_ENCAPSED_STRING) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 39
+[06-Nov-2018 22:01:21 UTC] PHP Parse error:  syntax error, unexpected '" and Room<"' (T_CONSTANT_ENCAPSED_STRING) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 39
+[06-Nov-2018 22:07:34 UTC] PHP Parse error:  syntax error, unexpected '" and Available=0 and Room<"' (T_CONSTANT_ENCAPSED_STRING) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 39
+[06-Nov-2018 22:08:39 UTC] PHP Warning:  A non-numeric value encountered in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 39
+[06-Nov-2018 22:08:39 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 45
+[06-Nov-2018 22:09:18 UTC] PHP Warning:  A non-numeric value encountered in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 39
+[07-Nov-2018 08:28:36 UTC] PHP Notice:  Undefined index: username in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 7
+[07-Nov-2018 09:28:05 UTC] PHP Notice:  Undefined index: username in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 7
+[07-Nov-2018 09:28:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 270
+[07-Nov-2018 09:28:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 274
+[07-Nov-2018 09:28:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:1) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 329
+[07-Nov-2018 09:43:53 UTC] PHP Warning:  A non-numeric value encountered in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 28
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 09:51:59 UTC] PHP Notice:  Undefined index: Time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 74
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:04:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:78) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 78
+[07-Nov-2018 10:15:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/py8e3wmbzwk9/public_html/mysql/session.php:69) in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 100
+[07-Nov-2018 10:21:07 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 76
+[07-Nov-2018 10:21:33 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 76
+[07-Nov-2018 11:26:13 UTC] PHP Notice:  Undefined index: username in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 8
+[07-Nov-2018 11:38:08 UTC] PHP Notice:  Undefined variable: room in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 18
+[07-Nov-2018 11:38:08 UTC] PHP Notice:  Undefined variable: time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 19
+[07-Nov-2018 11:40:32 UTC] PHP Notice:  Undefined variable: room in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 14
+[07-Nov-2018 11:40:32 UTC] PHP Notice:  Undefined variable: time in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 15
+[07-Nov-2018 11:45:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 14
+[07-Nov-2018 11:50:41 UTC] PHP Notice:  Undefined variable: day in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 16
+[07-Nov-2018 11:54:13 UTC] PHP Notice:  Undefined variable: conn in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 20
+[07-Nov-2018 11:54:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/py8e3wmbzwk9/public_html/mysql/session.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 20
+[07-Nov-2018 12:15:12 UTC] PHP Notice:  Undefined index: username in /home/py8e3wmbzwk9/public_html/mysql/conf.php on line 5
+[07-Nov-2018 12:15:23 UTC] PHP Notice:  Undefined index: username in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 7
+[07-Nov-2018 13:48:04 UTC] PHP Notice:  Undefined index: username in /home/py8e3wmbzwk9/public_html/mysql/conf.php on line 5
+[07-Nov-2018 15:16:29 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/py8e3wmbzwk9/public_html/mysql/mail.php on line 9
+[07-Nov-2018 15:16:30 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/py8e3wmbzwk9/public_html/mysql/mail.php on line 9
+[07-Nov-2018 15:16:53 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/py8e3wmbzwk9/public_html/mysql/mail.php on line 9
+[07-Nov-2018 15:17:59 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/py8e3wmbzwk9/public_html/mysql/mail.php on line 9
+[05-Dec-2018 05:54:54 UTC] PHP Notice:  Undefined index: username in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 7
+[05-Dec-2018 16:12:56 UTC] PHP Notice:  A non well formed numeric value encountered in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 48
+[08-Dec-2018 16:01:42 UTC] PHP Warning:  A non-numeric value encountered in /home/py8e3wmbzwk9/public_html/mysql/session.php on line 48

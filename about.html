@@ -1,0 +1,138 @@
+<html>
+
+    <head>
+        
+          <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+          
+          <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+          <link rel="stylesheet" href="/resources/demos/style.css">
+          <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+          <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+        <title>About</title>
+        
+        <style>
+        
+            body
+            {
+                margin: 0 auto;    
+                padding-left: 210px;
+                padding-right:210px;
+            }
+            
+            
+            
+            #head
+            {
+                height:"40px";
+                width:auto;
+                
+                
+            }
+            a{
+                font-family: proxima-nova, sans-serif;
+                color:dimgrey;
+                text-decoration: none;
+                
+            }
+            
+            #ft{
+                font-family: 'Mali', cursive;
+            }
+            
+           #accordion
+            {
+                padding-top: 100px;
+            }
+            
+            .
+        </style>
+        <link href="https://fonts.googleapis.com/css?family=Mali" rel="stylesheet">
+    </head>
+
+    <body>
+
+        <div id="head">
+            <img src="https://peopleorbit.vit.ac.in/images/VIT-New-Logo.jpg" height="100" width="350" style="padding-top: 50px;"> 
+            
+            <a href="index.php" style="position:absolute; right:350;left:auto;top:110px;font-size: 130%">Home</a>
+            
+            <a href="" style="position:absolute;right:210;left:auto;top:110px;font-size: 130%">Contact Us</a>
+                
+        </div>
+        
+        <div id="text">
+                <div id="accordion">
+                    <div class="group">
+                        <h3><i>About Project</i></h3>
+                        <div id="ft">
+                            This project was made in a group of 3 for the course Database Management Systems CSE 2004 under the able guidance of Prof Shyamala L.<br><br>
+                            The main aim of this project is to create a portal which allows user to book rooms in the campus to organize events.
+                            <br><br>
+                        </div>
+                    </div>
+                    <div class="group">
+                        <h3><i>Participants</i></h3>
+                        <div id="ft">
+                            This project was made by:
+                            <ul>
+                                <li>Shashanka Shekhar Das 17BCE1325</li>
+                                <li>Putul Siddharth 17BCE1100</li>
+                                <li>Dibyanshu Gautam 17BCE1328</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="group">
+                        <h3><i>Softwares/Languages Used</i></h3>
+                        <div id="ft">
+                            Languages:
+                            <ul>
+                                <li>HTML</li>
+                                <li>PHP</li>
+                                <li>Javascript</li>
+                                <li>Jquery</li>
+                                <li>CSS</li>
+                            </ul>
+                            Database:
+                            <ul>
+                                <li>MySQL</li>
+                            </ul>
+                            Text editing Software:
+                            <ul>
+                                <li>Brackets</li>
+                            </ul>
+                        </div>
+                    </div id="ft">
+                    <div class="group">
+                        <h3><i>References</i></h3>
+                        <div id="ft">
+                            <ul>
+                                <li>W3schools</li>
+                                <li>Youtube</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+        </div>
+        
+        <script>
+                $("#accordion").accordion({
+                    collapsible:true,
+                    header: "> div > h3",
+                    heightStyle:"content"
+                }).sortable({
+                    axis:"y",
+                    handle:"h3",
+                    stop: function( event, ui ) {
+                        ui.item.children( "h3" ).triggerHandler( "focusout" );
+ 
+                        $( this ).accordion( "refresh" );
+                    }
+                });
+            
+        </script>
+    </body>
+
+</html>
